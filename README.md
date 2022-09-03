@@ -1,0 +1,1 @@
+# hakadao-max.github.io
