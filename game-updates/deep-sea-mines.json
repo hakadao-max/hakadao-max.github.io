@@ -6,7 +6,7 @@
       "channel": "testflight",
       "bundle_id": "com.haidixiaowu.deepseamines",
       "version": "1.0.0",
-      "build": "19",
+      "build": "20",
       "notes": {}
     }
   ]
