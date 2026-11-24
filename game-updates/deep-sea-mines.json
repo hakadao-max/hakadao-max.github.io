@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "releases": [
+    {
+      "platform": "ios",
+      "channel": "testflight",
+      "bundle_id": "com.haidixiaowu.deepseamines",
+      "version": "1.0.0",
+      "build": "19",
+      "notes": {}
+    }
+  ]
+}
